@@ -4,6 +4,7 @@ Let's try and keep this updated?
 ## Set up
 - Node (latest version)<br/> 
 - Angular 9<br/> 
+<br/>
 As for the current state of the project there is a working instance in raw HTML and javascript.... I am slowly converting into Angular and then we can extend to makeing it a progressive web app (angular has some simple libraries to do so). If we wanna pivot and use something else, now is the time to do so. 
 ## Install
 A very basic npm install inside the folder wannnabe
