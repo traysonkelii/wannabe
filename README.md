@@ -17,7 +17,7 @@ ng serve -o
 ```
 
 ## Working instance
-Simply open index.html at the root of the folder (no need )
+Simply open index.html at the root of the folder (no need for installations, all is there in vanilla js header imports and whatnot)
 
 ## Important libraries
 - p5.js drawing and creating video output in the browser<br/>
