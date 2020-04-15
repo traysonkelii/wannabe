@@ -13,6 +13,6 @@ Then navigate to localhost:4200
 Simply open index.html at the root of the folder
 
 ## Important libraries
-p5.js
-ml5.js
+p5.js<br/>
+ml5.js<br/>
 tensorflow posenet (this is the actual model that finds the pose estimations) added through npm specifically this library @tensorflow-models/posenet
